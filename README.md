@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 My name is Dani</h1>
 ---
 
-I am student of DAM2
+I am student a DAM2 student
 ---
 
 ### Asignatures:
