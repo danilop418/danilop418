@@ -16,13 +16,12 @@ I am a DAM2 student
 - EMPII **Itinerario personal para la empleabilidad II**
 
 ---
-
 ## Projects  
 
 <p align="center">
   <!-- CRUD-Java -->
-  <a href="https://github.com/danilop418/CRUD-Java.git">
-    <img src="https://img.shields.io/badge/ CRUD-Java%20?style=for-the-badge" alt="CRUD-Java">
+  <a href="https://github.com/danilop418/CRUD-Java">
+    <img src="https://img.shields.io/badge/CRUD--Java-blue?style=for-the-badge" alt="CRUD-Java">
   </a><br>
   <sub>Initial level test for DAM2 programming: create a CRUD.</sub>
 </p>
@@ -30,9 +29,9 @@ I am a DAM2 student
 ---
 
 <p align="center">
-  <!--Students-CRUD-Android -->
-  <a href="https://github.com/danilop418/Students-CRUD-Android.git">
-    <img src="https://img.shields.io/badge/Student-Crud-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
+  <!-- Students-CRUD-Android -->
+  <a href="https://github.com/danilop418/Students-CRUD-Android">
+    <img src="https://img.shields.io/badge/Students--CRUD--Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
   </a><br>
   <sub>Second practical assignment of the PMDM course: a Students CRUD in Android.</sub>
 </p>
@@ -40,36 +39,34 @@ I am a DAM2 student
 ---
 
 <p align="center">
-  <!--AAD-->
-  <a href="https://github.com/daniellopgon/PokeIA">
-    <img src="https://github.com/danilop418/AAD.git" alt="AAD">
-     <img src="https://img.shields.io/badge/AAD%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
+  <!-- AAD -->
+  <a href="https://github.com/danilop418/PokeIA">
+    <img src="https://img.shields.io/badge/AAD%20|%20Workout%20Tracker-green?style=for-the-badge" alt="AAD Project">
   </a><br>
-  <sub>Files</sub>
+  <sub>Files for the AAD certification practice project.</sub>
 </p>
 
 ---
 
 <p align="center">
-  <!--Proyecto-CRUD-Kotlin-Gradle-Principios-Solid-->
-  <a href="https://github.com/danilop418/Proyecto-CRUD-Kotlin-Gradle-Principios-Solid.git">
-    <img src="https://img.shields.io/badge/ Proyecto-CRUD-Kotlin-Gradle-Principios-Solid%20?style=for-the-badge" alt="Proyecto-CRUD-Kotlin-Gradle-Principios-Solid">
+  <!-- Proyecto-CRUD-Kotlin-Gradle-Principios-Solid -->
+  <a href="https://github.com/danilop418/Proyecto-CRUD-Kotlin-Gradle-Principios-Solid">
+    <img src="https://img.shields.io/badge/Proyecto--CRUD--Kotlin--Gradle--SOLID-orange?style=for-the-badge" alt="Proyecto CRUD Kotlin SOLID">
   </a><br>
-  <sub>Class Exercise 1: a CRUD in Kotlin following the SOLID principles..</sub>
+  <sub>Class Exercise 1: a CRUD in Kotlin following the SOLID principles.</sub>
 </p>
 
 ---
 
 <p align="center">
-  <!--Leetcode_ejercicios-->
-  <a href="https://github.com/danilop418/Leetcode_ejercicios.git">
-    <img src="https://img.shields.io/badge/ Leetcode ejercicios%20?style=for-the-badge" alt="Video Game Store">
+  <!-- Leetcode_ejercicios -->
+  <a href="https://github.com/danilop418/Leetcode_ejercicios">
+    <img src="https://img.shields.io/badge/Leetcode%20Ejercicios-yellow?style=for-the-badge" alt="Leetcode ejercicios">
   </a><br>
-  <sub>Recopilación de mis ejercicios de leetcode, en español, para practicar.</sub>
+  <sub>Recopilación de mis ejercicios de LeetCode en español para practicar.</sub>
 </p>
 
 ---
-
 
 ### GitHub Stats
 
@@ -78,7 +75,3 @@ I am a DAM2 student
 </p>
 
 ---
-
-<p align="center">
-  <i>"Programming is not just about writing code, it's about building ideas with logic and creativity."</i>
-</p>
