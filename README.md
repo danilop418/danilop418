@@ -4,7 +4,7 @@
 I am a DAM2 student
 ---
 
-### Asignatures:
+### Subjects:
 
 - PSP **Programación de procesos y servicios**
 - PMDM **Programación multimedia y dispositivos moviles**
