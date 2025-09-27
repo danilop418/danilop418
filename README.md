@@ -22,7 +22,7 @@ I am a DAM2 student
 <p align="center">
   <!-- CRUD-Java -->
   <a href="https://github.com/danilop418/CRUD-Java.git">
-    <img src="https://img.shields.io/badge/ Virtual Cat App-Android%20|%20Jetpack%20Compose-blue?style=for-the-badge" alt="CRUD-Java">
+    <img src="https://img.shields.io/badge/ CRUD-Java%20|%20Jetpack%20Compose-blue?style=for-the-badge" alt="CRUD-Java">
   </a><br>
   <sub>Initial level test for DAM2 programming: create a CRUD.</sub>
 </p>
@@ -32,7 +32,7 @@ I am a DAM2 student
 <p align="center">
   <!--Students-CRUD-Android -->
   <a href="https://github.com/danilop418/Students-CRUD-Android.git">
-    <img src="https://img.shields.io/badge/🏃‍♂️ Simple Runner APK-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
+    <img src="https://img.shields.io/badge/Student-Crud-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
   </a><br>
   <sub>Second practical assignment of the PMDM course: a Students CRUD in Android.</sub>
 </p>
@@ -43,6 +43,7 @@ I am a DAM2 student
   <!--AAD-->
   <a href="https://github.com/daniellopgon/PokeIA">
     <img src="https://github.com/danilop418/AAD.git" alt="AAD">
+     <img src="https://img.shields.io/badge/AAD%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
   </a><br>
   <sub>Files</sub>
 </p>
@@ -52,7 +53,7 @@ I am a DAM2 student
 <p align="center">
   <!--Proyecto-CRUD-Kotlin-Gradle-Principios-Solid-->
   <a href="https://github.com/danilop418/Proyecto-CRUD-Kotlin-Gradle-Principios-Solid.git">
-    <img src="https://img.shields.io/badge/ DAM--API-Java%20|%20Spring%20Boot%20&%20MyBatis-red?style=for-the-badge" alt="Proyecto-CRUD-Kotlin-Gradle-Principios-Solid">
+    <img src="https://img.shields.io/badge/ Proyecto-CRUD-Kotlin-Gradle-Principios-Solid%20|%20Spring%20Boot%20&%20MyBatis-red?style=for-the-badge" alt="Proyecto-CRUD-Kotlin-Gradle-Principios-Solid">
   </a><br>
   <sub>Class Exercise 1: a CRUD in Kotlin following the SOLID principles..</sub>
 </p>
@@ -62,7 +63,7 @@ I am a DAM2 student
 <p align="center">
   <!--Leetcode_ejercicios-->
   <a href="https://github.com/danilop418/Leetcode_ejercicios.git">
-    <img src="https://img.shields.io/badge/ Video Game Store-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Video Game Store">
+    <img src="https://img.shields.io/badge/ Leetcode ejercicios%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Video Game Store">
   </a><br>
   <sub>Recopilación de mis ejercicios de leetcode, en español, para practicar.</sub>
 </p>
