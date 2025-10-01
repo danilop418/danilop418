@@ -68,6 +68,15 @@ I am a DAM2 student
 
 ---
 
+<p align="center">
+  <!-- LoginPlayground -->
+  <a href="https://github.com/danilop418/LoginPlayground.git">
+  <img src="https://img.shields.io/badge/Proyect--LoginPlayground--SOLID-orange?style=for-the-badge" alt="LoginPlayGround">
+  </a><br>
+  <sub>Exercise : For to learn handling errors.</sub>
+</p>
+
+
 ### GitHub Stats
 
 <p align="center">
