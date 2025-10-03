@@ -76,6 +76,16 @@ I am a DAM2 student
   <sub>Exercise : For to learn handling errors.</sub>
 </p>
 
+---
+
+<p align="center">
+  <!-- SuperHeroes -->
+  <a href="https://github.com/danilop418/SuperHeroes.git">
+  <img src="https://img.shields.io/badge/Proyect--SuperHeroes--SOLID-blue?style=for-the-badge" alt="SuperHeroes">
+  </a><br>
+  <sub>Exercise : For to learn connect to API.</sub>
+</p>
+
 
 ### GitHub Stats
 
