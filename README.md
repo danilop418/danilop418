@@ -21,7 +21,7 @@ I am a DAM2 student
 <p align="center">
   <!-- CRUD-Java -->
   <a href="https://github.com/danilop418/CRUD-Java">
-    <img src="https://img.shields.io/badge/CRUD--Java-blue?style=for-the-badge" alt="CRUD-Java">
+    <img src="https://img.shields.io/badge/CRUD--Java-green?style=for-the-badge" alt="CRUD-Java">
   </a><br>
   <sub>Initial level test for DAM2 programming: create a CRUD.</sub>
 </p>
@@ -31,7 +31,7 @@ I am a DAM2 student
 <p align="center">
   <!-- Students-CRUD-Android -->
   <a href="https://github.com/danilop418/Students-CRUD-Android">
-    <img src="https://img.shields.io/badge/Students--CRUD--Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Students-CRUD-Android">
+    <img src="https://img.shields.io/badge/Students--CRUD--Android%20|%20Workout%20Tracker-black?style=for-the-badge" alt="Students-CRUD-Android">
   </a><br>
   <sub>Second practical assignment of the PMDM course: a Students CRUD in Android.</sub>
 </p>
@@ -41,7 +41,7 @@ I am a DAM2 student
 <p align="center">
   <!-- AAD -->
   <a href="https://github.com/danilop418/PokeIA">
-    <img src="https://img.shields.io/badge/AAD%20|%20Workout%20Tracker-green?style=for-the-badge" alt="AAD Project">
+    <img src="https://img.shields.io/badge/AAD%20|%20Workout%20Tracker-red?style=for-the-badge" alt="AAD Project">
   </a><br>
   <sub>Files for the AAD certification practice project.</sub>
 </p>
@@ -61,7 +61,7 @@ I am a DAM2 student
 <p align="center">
   <!-- Leetcode_ejercicios -->
   <a href="https://github.com/danilop418/Leetcode_ejercicios">
-    <img src="https://img.shields.io/badge/Leetcode%20Ejercicios-yellow?style=for-the-badge" alt="Leetcode ejercicios">
+    <img src="https://img.shields.io/badge/Leetcode%20Ejercicios-purple?style=for-the-badge" alt="Leetcode ejercicios">
   </a><br>
   <sub>Recopilación de mis ejercicios de LeetCode en español para practicar.</sub>
 </p>
@@ -71,7 +71,7 @@ I am a DAM2 student
 <p align="center">
   <!-- LoginPlayground -->
   <a href="https://github.com/danilop418/LoginPlayground.git">
-  <img src="https://img.shields.io/badge/Proyect--LoginPlayground--SOLID-orange?style=for-the-badge" alt="LoginPlayGround">
+  <img src="https://img.shields.io/badge/Proyect--LoginPlayground--SOLID-green?style=for-the-badge" alt="LoginPlayGround">
   </a><br>
   <sub>Exercise : For to learn handling errors.</sub>
 </p>
@@ -84,6 +84,16 @@ I am a DAM2 student
   <img src="https://img.shields.io/badge/Proyect--SuperHeroes--SOLID-blue?style=for-the-badge" alt="SuperHeroes">
   </a><br>
   <sub>Exercise : For to learn connect to API.</sub>
+</p>
+
+---
+
+<p align="center">
+  <!-- Metropolitan museum -->
+  <a href="https://github.com/danilop418/SuperHeroes.git">
+  <img src="https://img.shields.io/badge/Proyect--SuperHeroes--SOLID-orange?style=for-the-badge" alt="Metropolitan museum">
+  </a><br>
+  <sub>Exercise : For to learn connect to API, self project.</sub>
 </p>
 
 
