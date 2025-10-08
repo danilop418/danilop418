@@ -90,8 +90,8 @@ I am a DAM2 student
 
 <p align="center">
   <!-- Metropolitan museum -->
-  <a href="https://github.com/danilop418/SuperHeroes.git">
-  <img src="https://img.shields.io/badge/Proyect--SuperHeroes--SOLID-orange?style=for-the-badge" alt="Metropolitan museum">
+  <a href="https://github.com/danilop418/Metropolitan-museum-app.git">
+  <img src="https://img.shields.io/badge/Proyect--Metropolitan museum--SOLID-red?style=for-the-badge" alt="Metropolitan museum">
   </a><br>
   <sub>Exercise : For to learn connect to API, self project.</sub>
 </p>
