@@ -96,6 +96,16 @@ I am a DAM2 student
   <sub>Exercise : For to learn connect to API, self project.</sub>
 </p>
 
+---
+
+<p align="center">
+  <!-- DI -->
+  <a href="https://github.com/danilop418/DI.git">
+  <img src="https://img.shields.io/badge/Proyect--DI--SOLID-blue?style=for-the-badge" alt="DI">
+  </a><br>
+  <sub>Exercise : For learn DI, UI and UX self project.</sub>
+</p>
+
 
 ### GitHub Stats
 
