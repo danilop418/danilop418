@@ -93,7 +93,7 @@ I am a DAM2 student
   <a href="https://github.com/danilop418/Metropolitan-museum-app.git">
   <img src="https://img.shields.io/badge/Proyect--Metropolitan museum--SOLID-red?style=for-the-badge" alt="Metropolitan museum">
   </a><br>
-  <sub>Exercise : For to learn connect to API, self project.</sub>
+  <sub>Exercise : For learn connect to API, self project.</sub>
 </p>
 
 ---
@@ -104,6 +104,16 @@ I am a DAM2 student
   <img src="https://img.shields.io/badge/Proyect--DI--SOLID-blue?style=for-the-badge" alt="DI">
   </a><br>
   <sub>Exercise : For learn DI, UI and UX self project.</sub>
+</p>
+
+---
+
+<p align="center">
+  <!-- Simpsons -->
+  <a href="https://github.com/danilop418/Simpsons-API.git">
+ <img src="https://img.shields.io/badge/Proyect--Simpsons--API--SOLID-yellow?style=for-the-badge" alt="SIMPSONS">
+  </a><br>
+  <sub>Exercise : For learn connect to API, self project.</sub>
 </p>
 
 
