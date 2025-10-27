@@ -53,13 +53,24 @@ Passionate about programming, Android & cloud computing.
 
 ### 🔴 AAD - Acceso a datos
 <p align="center">
-  <a href="https://github.com/danilop418/PokeIA">
+  <a href="https://github.com/danilop418/AAD.git">
     <img src="https://img.shields.io/badge/AAD--Files-red?style=for-the-badge" alt="AAD Project">
   </a>
 </p>
 <sub>Files for the AAD certification practice project.</sub>
 
 ---
+
+### 🟡 DI - Desarrollo de Interfaces
+<p align="center">
+  <a href="https://github.com/danilop418/DI.git">
+    <img src="https://img.shields.io/badge/DI--Files-yellow?style=for-the-badge" alt="DI Project">
+  </a>
+</p>
+<sub>Design interfaces.</sub>
+
+---
+
 
 ### 📊 GitHub Stats
 <p align="center">
