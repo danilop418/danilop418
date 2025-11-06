@@ -41,18 +41,17 @@
 ## 🎓 Subjects & Projects
 
 ---
-
 ### 🟢 PSP - Programación de procesos y servicios
 <p align="center">
-  <a href="https://github.com/danilop418/CRUD-Java">
-    <img src="https://img.shields.io/badge/CRUD--Java-green?style=for-the-badge" alt="CRUD Java">
-  </a>
-  <a href="https://github.com/danilop418/Proyecto-CRUD-Kotlin-Gradle-Principios-Solid">
-    <img src="https://img.shields.io/badge/Proyecto--CRUD--Kotlin--SOLID-green?style=for-the-badge" alt="CRUD Kotlin SOLID">
-  </a>
-  <a href="https://github.com/danilop418/Leetcode_ejercicios">
-    <img src="https://img.shields.io/badge/Leetcode--Ejercicios-green?style=for-the-badge" alt="Leetcode Ejercicios">
-  </a>
+  <a href="https://github.com/danilop418/CRUD-Java">
+    <img src="https://img.shields.io/badge/CRUD%20Java-green?style=for-the-badge" alt="CRUD Java">
+  </a>
+  <a href="https://github.com/danilop418/Proyecto-CRUD-Kotlin-Gradle-Principios-Solid">
+    <img src="https://img.shields.io/badge/Proyecto%20CRUD%20Kotlin%20SOLID-green?style=for-the-badge" alt="CRUD Kotlin SOLID">
+  </a>
+  <a href="https://github.com/danilop418/Leetcode_ejercicios">
+    <img src="https://img.shields.io/badge/Leetcode%20Ejercicios-green?style=for-the-badge" alt="Leetcode Ejercicios">
+  </a>
 </p>
 <sub>CRUD exercises, Kotlin SOLID projects, and algorithm practice.</sub>
 
@@ -60,24 +59,24 @@
 
 ### 🔵 PMDM - Programación multimedia y dispositivos móviles
 <p align="center">
-  <a href="https://github.com/danilop418/Students-CRUD-Android">
-    <img src="https://img.shields.io/badge/Students--CRUD--Android-blue?style=for-the-badge" alt="Students CRUD Android">
-  </a>
-  <a href="https://github.com/danilop418/LoginPlayground.git">
-    <img src="https://img.shields.io/badge/LoginPlayground--SOLID-blue?style=for-the-badge" alt="Login Playground SOLID">
-  </a>
-  <a href="https://github.com/danilop418/SuperHeroes.git">
-    <img src="https://img.shields.io/badge/SuperHeroes--SOLID-blue?style=for-the-badge" alt="Super Heroes SOLID">
-  </a>
-  <a href="https://github.com/danilop418/Metropolitan-museum-app.git">
-    <img src="https://img.shields.io/badge/MetropolitanMuseum--App-blue?style=for-the-badge" alt="Metropolitan Museum App">
-  </a>
-  <a href="https://github.com/danilop418/DI.git">
-    <img src="https://img.shields.io/badge/DI--SOLID-blue?style=for-the-badge" alt="DI SOLID">
-  </a>
-  <a href="https://github.com/danilop418/Simpsons-API.git">
-    <img src="https://img.shields.io/badge/Simpsons--API--SOLID-blue?style=for-the-badge" alt="Simpsons API SOLID">
-  </a>
+  <a href="https://github.com/danilop418/Students-CRUD-Android">
+    <img src="https://img.shields.io/badge/Students%20CRUD%20Android-blue?style=for-the-badge" alt="Students CRUD Android">
+  </a>
+  <a href="https://github.com/danilop418/LoginPlayground.git">
+    <img src="https://img.shields.io/badge/LoginPlayground%20SOLID-blue?style=for-the-badge" alt="Login Playground SOLID">
+  </a>
+  <a href="https://github.com/danilop418/SuperHeroes.git">
+    <img src="https://img.shields.io/badge/SuperHeroes%20SOLID-blue?style=for-the-badge" alt="Super Heroes SOLID">
+  </a>
+  <a href="https://github.com/danilop418/Metropolitan-museum-app.git">
+    <img src="https://img.shields.io/badge/Metropolitan%20Museum%20App-blue?style=for-the-badge" alt="Metropolitan Museum App">
+  </a>
+  <a href="https://github.com/danilop418/DI.git">
+    <img src="https://img.shields.io/badge/DI%20SOLID-blue?style=for-the-badge" alt="DI SOLID">
+  </a>
+  <a href="https://github.com/danilop418/Simpsons-API.git">
+    <img src="https://img.shields.io/badge/Simpsons%20API%20SOLID-blue?style=for-the-badge" alt="Simpsons API SOLID">
+  </a>
 </p>
 <sub>Android projects, API exercises, Dependency Injection and UI/UX experiments.</sub>
 
@@ -85,9 +84,9 @@
 
 ### 🔴 AAD - Acceso a datos
 <p align="center">
-  <a href="https://github.com/danilop418/AAD.git">
-    <img src="https://img.shields.io/badge/AAD--Files-red?style=for-the-badge" alt="AAD Files">
-  </a>
+  <a href="https://github.com/danilop418/AAD.git">
+    <img src="https://img.shields.io/badge/AAD%20Files-red?style=for-the-badge" alt="AAD Files">
+  </a>
 </p>
 <sub>Files for the AAD certification practice project.</sub>
 
@@ -95,11 +94,16 @@
 
 ### 🟡 DI - Desarrollo de Interfaces
 <p align="center">
-  <a href="https://github.com/danilop418/DI.git">
-    <img src="https://img.shields.io/badge/DI--Files-yellow?style=for-the-badge" alt="DI Files">
-  </a>
+  <a href="https://github.com/danilop418/DI.git">
+    <img src="https://img.shields.io/badge/DI%20Files-yellow?style=for-the-badge" alt="DI Files">
+  </a>
 </p>
 <sub>Design interfaces.</sub>
+
+---
+
+
+
 
 ---
 
@@ -118,10 +122,17 @@
 
 ## 📬 Connect with Me
 
-<a href="mailto:daniel.lopgon.4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/danilop418"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:daniel.lopgon.4@gmail.com">
+    <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danilop418">
+    <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
-<br>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{danilop418}/count.svg" /></p> 
+  <br>
+  <img src="https://profile-counter.glitch.me/danilop418/count.svg" alt="Profile Counter" />
 </div>
