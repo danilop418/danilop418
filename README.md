@@ -110,29 +110,30 @@
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilop418&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danilop418&theme=algolia&bg_color=transparent"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilop418&theme=algolia&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danilop418&theme=algolia&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilop418&langs_count=6&layout=compact&bg_color=transparent&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilop418&langs_count=6&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
-</br>
+---
 
 ## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:daniel.lopgon.4@gmail.com">
-    <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img width="85px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/danilop418">
-    <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
   <br>
-  <img src="https://profile-counter.glitch.me/danilop418/count.svg" alt="Profile Counter" />
+  <img src="https://profile-counter.glitch.me/danilop418/count.svg" alt="" />
 </div>
+
