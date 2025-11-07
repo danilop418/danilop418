@@ -110,12 +110,11 @@
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilop418&theme=algolia&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danilop418&theme=algolia&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danilop418&theme=algolia&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilop418&langs_count=6&layout=compact&theme=algolia&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilop418&langs_count=6&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
 ---
