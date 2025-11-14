@@ -117,6 +117,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilop418&langs_count=6&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
+### 🏆 Trofeos de GitHub:
+![Trofeos](https://github-profile-trophy.vercel.app/?username=danilop418&theme=dracula)
+
 ---
 
 ## 📬 Connect with Me
