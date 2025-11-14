@@ -90,20 +90,17 @@
 </p>
 <sub>Files for the AAD certification practice project.</sub>
 
----
 
 ### 🟡 DI - Desarrollo de Interfaces
 <p align="center">
   <a href="https://github.com/danilop418/DI.git">
     <img src="https://img.shields.io/badge/DI%20Files-yellow?style=for-the-badge" alt="DI Files">
   </a>
+  <a href="https://github.com/danilop418/Exam-DI.git">
+    <img src="https://img.shields.io/badge/DI%20Exam-yellow?style=for-the-badge" alt="DI Exam">
+  </a>
 </p>
 <sub>Design interfaces.</sub>
-
----
-
-
-
 
 ---
 
