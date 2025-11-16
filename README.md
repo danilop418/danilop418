@@ -1,5 +1,3 @@
-# Hey there 👋, I'm Dani
-
 <p align="left">
   <img src="https://media1.tenor.com/m/0RZxkLpl1S0AAAAd/kid-buu-planet-burst.gif" width="160" style="margin-right: 15px;" align="left">
 
