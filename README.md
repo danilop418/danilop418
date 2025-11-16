@@ -1,10 +1,15 @@
 # Hey there 👋, I'm Dani
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Dani;DAM2+Student;Android+Developer;Cloud+Computing+Fan;Always+Learning..."/>
+<p align="left">
+  <img src="https://media1.tenor.com/m/0RZxkLpl1S0AAAAd/kid-buu-planet-burst.gif" width="160" style="margin-right: 15px;" align="left">
 
-<p><i>DAM2 student passionate about programming, Android & cloud computing. I love building cool apps and solving problems.</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1200&pause=500&color=FF0099&width=650&height=200&lines=Hey!+I'm+Dani;DAM2+Student;Android+Developer;Always+Learning..." />
+</p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<br clear="both"/>
+
+<img src="https://github.com/user-attachments/assets/f7d9b15c-3bf3-428b-8de2-8822129d4ade" width="50%" align="right" />
+
 
 ## ⚡ About Me
 
@@ -128,6 +133,10 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/danilop418">
     <img width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/tera_glitch">
+    <img width="40px" src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
 
